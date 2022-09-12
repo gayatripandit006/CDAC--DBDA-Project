@@ -1,5 +1,4 @@
 # CDAC--DBDA-Project
 Restaurant_Review_Sentimental_Analysis
 
-
-![Restaurant](https://user-images.githubusercontent.com/49303659/189686289-e72a6ec3-f26d-4dfa-9097-8afba0b2215d.jpg)
+![Restaurant Review Sentiment Analysis](https://user-images.githubusercontent.com/49303659/189692688-cbfe6c39-097f-4f36-a2c1-389b8506929f.png)
