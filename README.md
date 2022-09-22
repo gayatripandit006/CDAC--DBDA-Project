@@ -5,7 +5,7 @@ Restaurant_Review_Sentimental_Analysis
 
 
 
-##Overview 
+# Overview 
 After COVID, there was a sudden surge in demand for online food ordering which eventually has
 increased the value of reviews and ratings given by the customers for a particular restaurant. The
 ability to analyze and extract information from customers has great value to a business that can
