@@ -15,3 +15,5 @@ restaurant business. The project focuses on using open source restaurant data, p
 and stored in Mongo DB on which we are implementing Deep Learning for sentiment analysis
 using NLP (NLTK, Text Blob), Machine learning algorithms (Random Forest, Logistic
 Regression, etc. ), Data Visualization tools and techniques(Power BI).
+
+![](https://drive.google.com/file/d/1oZtA7zs4Uhq7D_gL9J2Zw71UiPIC47Iq/view?usp=sharing)
